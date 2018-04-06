@@ -1,5 +1,5 @@
 package githospital;
 
-public class PrescricaoRegular {
+public class PrescricaoRegular extends Prescricao {
 
 }
